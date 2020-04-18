@@ -21,9 +21,9 @@ mv * ~/
 3. [install plugin by tmp](http://louiszhai.github.io/2017/09/30/tmux/#Tmux-Resurrect)
 
 #### tutorial
-https://github.com/gpakosz/.tmux
-http://louiszhai.github.io/2017/09/30/tmux/
-https://www.youtube.com/watch?v=5r6yzFEXajQ
+1. [tmux](https://github.com/gpakosz/.tmux)
+2. [tmux blog](http://louiszhai.github.io/2017/09/30/tmux/)
+3. [tmux + vim](https://www.youtube.com/watch?v=5r6yzFEXajQ)
 
 ## LINUX 
 ### vim 
@@ -39,5 +39,5 @@ mv * ~/
 3. install plug by vundle  
 
 #### tutorial
-https://www.youtube.com/watch?v=5r6yzFEXajQ
-https://harttle.land/vim-practice
+1. [tmux + vim](https://www.youtube.com/watch?v=5r6yzFEXajQ)
+i2 [vim-practice](https://harttle.land/vim-practice)
