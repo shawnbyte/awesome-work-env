@@ -4,10 +4,10 @@ MAC Work Env
 ## MAC
 
 ### iterm2
-theme color: iterm2_shawn.itermcolors
-conf : iterm2_shawn.json 
+1. theme color: iterm2_shawn.itermcolors
+2. conf : iterm2_shawn.json 
 
-use iterm2 import
+3. use iterm2 import
 
 
 ### tmux 
