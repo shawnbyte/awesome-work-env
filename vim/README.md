@@ -28,3 +28,5 @@
 'python-imports.vim'    for python imports 
 'SQLComplete.vim'       for sql 
 ```
+
+[MinuteVimTricks](https://www.youtube.com/channel/UCpdsZ1n09mwrbUGmU7lqnqA)
