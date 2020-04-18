@@ -40,4 +40,4 @@ mv * ~/
 
 #### tutorial
 1. [tmux + vim](https://www.youtube.com/watch?v=5r6yzFEXajQ)
-i2 [vim-practice](https://harttle.land/vim-practice)
+2 [vim-practice](https://harttle.land/vim-practice)
